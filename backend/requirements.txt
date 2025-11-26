@@ -1,0 +1,14 @@
+flask
+flask-cors
+beautifulsoup4
+lxml
+requests
+transformers
+sentence-transformers
+pinecone
+torch
+python-dotenv
+tiktoken
+google-generativeai
+numpy
+uv
